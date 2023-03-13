@@ -1,2 +1,2 @@
 # hello-world1
-# To improve is to change
+# My first repository on GitHub
